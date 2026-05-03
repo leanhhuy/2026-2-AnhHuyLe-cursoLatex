@@ -1,0 +1,18 @@
+Create a Tag (for versioning or creating Release):
+E.g.
+	git tag v1.0 -m "v1.0 full doctoral template"
+
+Push a Tag to server (e.g. GitHub):
+E.g.
+	git push v1.0
+or
+	git push origin v1.0
+
+Clone at a specific tag:
+E.g.
+	git clone --branch v1.0 https://github.com/leanhhuy/2026-2-AnhHuyLe-cursoLatex.git
+
+Check if we clone the right tag:
+	git describe --tag
+or
+	git tag
