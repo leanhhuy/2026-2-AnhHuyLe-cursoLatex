@@ -4,8 +4,6 @@ E.g.
 
 Push a Tag to server (e.g. GitHub):
 E.g.
-	git push v1.0
-or
 	git push origin v1.0
 
 Clone at a specific tag:
